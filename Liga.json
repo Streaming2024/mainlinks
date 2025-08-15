@@ -1,0 +1,58 @@
+{
+  "events": [
+
+
+    
+    {
+      "name": "Smooth 1 - Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/Player/page.html?src=https://nirutv.online/Player/plyrr?url=https://events3.liveboxpro.com/event/274.m3u8"
+    },
+    
+    {
+      "name": "Smooth 2 - Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+  {
+      "name": "Smooth 3 - Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/plyrr?url=https://events3.liveboxpro.com/event/84.m3u8"
+    },
+{
+      "name": "HD Link 1 - Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/plyrr?url=https://events3.liveboxpro.com/event/550.m3u8"
+    },
+    
+    {
+      "name": "HD Link 2 - Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+{
+      "name": "HD Link 2 - Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/plyrr?url=https://events3.liveboxpro.com/event/799.m3u8"
+    },
+
+    
+ {
+      "name": "Full HD Link 1 - Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+{
+      "name": "Full HD Link 2 - Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/plyrr?url=https://events3.liveboxpro.com/event/1024.m3u8"
+    },
+    
+ {
+      "name": "Full HD Link 3- Girona vs Rayo Vallecano",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/plyrr?url=https://events3.liveboxpro.com/event/426.m3u8"
+    
+    }
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: poAC Milanr; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
