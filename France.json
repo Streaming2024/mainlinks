@@ -1,0 +1,58 @@
+{
+  "events": [
+
+
+
+    {
+      "name": "Smooth 1 - France vs Ukraine  ",
+      "link": "https://nirutv.online/Player/page.html?src=https://nirutv.online/Player/soco?id=321443"
+    },
+
+
+
+    {
+      "name": "Smooth 2 -France vs Ukraine    ",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+
+
+    {
+      "name": "HD LInk 1 -France vs Ukraine   ",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/socohd?id=9912091"
+    },
+
+
+
+
+    {
+      "name": "HD Link 2 -France vs Ukraine    ",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/soco?id=414317"
+    },
+
+
+
+    {
+      "name": "Full HD Link 1 -France vs Ukraine    ",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+
+
+        {
+      "name": "Full HD Link 3 -France vs Ukraine    ",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/soco?id=484845"
+
+    }
+
+
+
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
