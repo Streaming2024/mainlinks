@@ -1,0 +1,46 @@
+{
+  "events": [
+
+
+    
+    {
+      "name": "Smooth 1 -Juventus vs Villarreal",
+      "link": "https://nirutv.online/Player/page.html?src=https://nirutv.online/Player/soco?id=235232"
+    },
+    
+    {
+      "name": "Smooth 2 -Juventus vs Villarreal",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+ 
+{
+      "name": "HD Link 1 -Juventus vs Villarreal",
+      "link": "https://nirutv.online/Player/page2.html?src=https://streamcenter.pro/embed/ch8.php"
+    },
+    
+    
+{
+      "name": "HD Link 2 -Juventus vs Villarreal",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/soco?id=511367?s"
+    },
+
+    
+ {
+      "name": "Full HD Link 1 -Juventus vs Villarreal",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+{
+      "name": "Full HD Link 2 -Juventus vs Villarreal",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/soco?id=511367"
+    }
+    
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: poAC Milanr; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
