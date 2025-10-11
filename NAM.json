@@ -1,0 +1,58 @@
+{
+  "events": [
+
+
+
+    {
+      "name": "Smooth 1 -NAM VS SA",
+      "link": "https://nirutv.online/Player/pageads.html?src=https://kasin-tv.com/hi/play.php?id=137263"
+    },
+
+
+
+    {
+      "name": "Smooth 2 -BANG vs AFG  ",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+
+
+    {
+      "name": "HD LInk 1 -BANG vs AFG ",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/fc"
+    },
+
+
+
+
+    {
+      "name": "HD Link 2 -BANG vs AFG  ",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/fc2"
+    },
+
+
+
+    {
+      "name": "Full HD Link 1 -BANG vs AFG  ",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+
+
+        {
+      "name": "Full HD Link 3 -BANG vs AFG  ",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://kasin-tv.com/hi/play.php?id=136881"
+
+    }
+
+
+
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
